@@ -11,23 +11,21 @@
 ### What is this repository for? ###
 
 * Quick summary
-    - Procedures to generate qr codes for academic papers in Symposia, Academic events, _etc_.
+    - Procedures to generate qr codes for academic papers in symposia, academic events, _etc_.
 * Version 1.01
 
 ### How do I get set up? ###
 
-* Summary of set up
-    - 
 * Configuration
-    - 
+    - Check [`procedure.md`](https://bitbucket.org/imhicihu/qr-code/src/01bedc6e0d0c1eac27bf360756d550e270694289/Procedure.md?at=master)
 * Dependencies
-    - 
+    - An internet connection
+    - A Gmail account
 * Database configuration
-    - 
+    - Out of the scope of this repo
 * How to run tests
-    - 
-* Deployment instructions
-    - 
+    - The same QR code generator encode/decode the image generated.
+    ![decoder.jpeg](https://bitbucket.org/repo/BgLpKje/images/4039695448-decoder.jpeg)
 
 ### Source ###
 
