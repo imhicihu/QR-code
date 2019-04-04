@@ -10,3 +10,10 @@
 ![end.jpeg](https://bitbucket.org/repo/BgLpKje/images/2295901297-end.jpeg)
 * ~~Pegar la dirección URL que nos provee [Google Drive](https://drive.google.com/)~~
 * ~~Automáticamente [Google Shortener](https://goo.gl/) nos ofrecerá una dirección `QR`.~~
+* Botón derecho del mouse, elegí la opción `Obtener enlace para compartir`. 
+* Copiar (`Ctrl` + `C`) la dirección que creará (usualmente de este tipo: [https://drive.google.com/open?id=0BzEQFvceWPQvb1NVRFVvUnZiam8](https://drive.google.com/open?id=0BzEQFvceWPQvb1NVRFVvUnZiam8))
+* Ir a este sitio: [http://atomurl.net/qrcode/](http://atomurl.net/qrcode/)
+* Pegar la dirección previamente copiada en la opción `URL` (otras opciones: `Text`, `Phone Number`, `SMS`, `Contact`, `Google Drive`)
+* Las opciones predeterminadas ofrecidas son las correctas para estos casos: es decir, `200px` y `Local QR Code Generator`. 
+* Clic en `Make QR Code`
+* Y clic sobre `Download this image`
