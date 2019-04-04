@@ -6,6 +6,7 @@
 
 * Checklist to generate qr codes for any digital asset
 * This repo is a living document that will grow and adapt over time
+![qrcoding.jpeg](https://bitbucket.org/repo/BgLpKje/images/2070783795-qrcoding.jpeg)
 
 ### What is this repository for? ###
 
