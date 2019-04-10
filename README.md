@@ -19,8 +19,7 @@
 * Configuration
     - Check [`procedure.md`](https://bitbucket.org/imhicihu/qr-code/src/01bedc6e0d0c1eac27bf360756d550e270694289/Procedure.md?at=master)
 * Dependencies
-    - An internet connection
-    - A Gmail account
+    - Check [`colophon.md`](https://bitbucket.org/imhicihu/qr-code/src/5a5f293c3c923b5b55f86662f1831e81057a8b0d/Colophon.md?at=master&fileviewer=file-view-default=
 * Database configuration
     - Out of the scope of this repo
 * How to run tests
