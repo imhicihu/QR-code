@@ -1,6 +1,6 @@
-![stability-workinprogress](https://img.shields.io/badge/stability-work_in_progress-lightgrey.svg)
+![stability-wip](https://img.shields.io/badge/status%3A%20-archived-orange.svg)
+![Bitbucket issues](https://img.shields.io/badge/issues-closed-green.svg))
 ![internaluse-green](https://img.shields.io/badge/Internal%20use%3A-stable-green.svg)
-![issues-open](https://img.shields.io/badge/issues-open-green.svg)
 
 # RATIONALE #
 
@@ -53,4 +53,4 @@
 
 ### License ###
 
-* The content of this project itself is licensed under the MIT License 
+* The content of this project itself is licensed under the ![MIT Licence](https://img.shields.io/badge/Llicence-MIT-brightgreen.svg) 
