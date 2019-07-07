@@ -1,5 +1,5 @@
 ![stability-wip](https://img.shields.io/badge/status%3A%20-archived-orange.svg)
-![Bitbucket issues](https://img.shields.io/badge/issues-closed-green.svg))
+![Bitbucket issues](https://img.shields.io/badge/issues-closed-green.svg)
 ![internaluse-green](https://img.shields.io/badge/Internal%20use%3A-stable-green.svg)
 
 # RATIONALE #
