@@ -26,6 +26,12 @@
     - The same QR code generator encode/decode the image generated.
     ![decoder.jpeg](https://bitbucket.org/repo/BgLpKje/images/4039695448-decoder.jpeg)
 
+### Related repositories ###
+
+* Some repositories linked with this project:
+     - [Conferences](https://bitbucket.org/imhicihu/conferences/src/master/)
+     - [Streaming](https://bitbucket.org/imhicihu/streaming/src/master/)
+
 ### Source ###
 
 * Check them on [here](https://bitbucket.org/imhicihu/qr-code/src)
