@@ -14,6 +14,6 @@
 * Copy the URL link (`Ctrl` + `C`) that will create (usually in this way: [https://drive.google.com/open?id=0BzEQFvceWPQvb1NVRFVvUnZiam8](https://drive.google.com/open?id=0BzEQFvceWPQvb1NVRFVvUnZiam8))
 * Go to this website: [http://atomurl.net/qrcode/](http://atomurl.net/qrcode/)
 * Paste the former URL copied in the `URL` option (other ones to choose: `Text`, `Phone Number`, `SMS`, `Contact`, `Google Drive`)
-* Those default options offered are right for general purposes purposes: `200px` and `Local QR Code Generator`. 
+* Those default options offered are right for general purposes: `200px` and `Local QR Code Generator`. 
 * Click on `Make QR Code`
 * Then click on `Download this image`
