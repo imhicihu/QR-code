@@ -9,7 +9,9 @@
      - [Firebase](https://firebase.google.com)
      - [Gmail](https://mail.google.com/)
      - [QR Code generator](http://atomurl.net/qrcode/)
-     - [Google Drive](https://drive.google.com)   
+     - [Google Drive](https://drive.google.com)
+     - Color palette
+        - [Flat UI colors](https://flatuicolors.com/)
      
 ## Legal ##
 
