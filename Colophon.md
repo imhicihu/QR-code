@@ -1,4 +1,4 @@
-## Technical requirements ##
+### Technical requirements
 
 * Hardware
      - any personal computer with an internet connection
@@ -13,6 +13,6 @@
      - Color palette
         - [Flat UI colors](https://flatuicolors.com/)
      
-## Legal ##
+### Legal
 
 * All trademarks are the property of their respective owners.
