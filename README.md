@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="images/37ACmBvtQkiNYJAabFaFgQ.webp?raw=true" alt="Logotipo de QR-code"/>
+</p>
+
+---
+
 ![stability-wip](https://bitbucket.org/repo/ekyaeEE/images/3278295154-status_archived.png)
 ![internaluse-green](https://bitbucket.org/repo/ekyaeEE/images/3847436881-internal_use_stable.png)
 ![Bitbucket issues](https://bitbucket.org/repo/ekyaeEE/images/1555006384-issues_closed.png)
